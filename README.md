@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Negin Alizadeh
 
----
+
 
 I'm a passionate backend developer with a strong foundation in PHP (Yii framework), Python, and system-level programming. Over the past years, I’ve worked on scalable backend systems and real-time network management solutions.
 
