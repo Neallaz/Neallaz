@@ -2,31 +2,43 @@
 ## Hi there 👋 I'm Negin Alizadeh
 
 I'm a passionate backend developer with a strong foundation in PHP (Yii framework), Python, and system-level programming. Over the past years, I’ve worked on scalable backend systems and real-time network management solutions, primarily at AVA Telecom.
+---
 
-🔧 **What I Do**  
-- Develop robust backend applications using PHP, Python, and MySQL  
-- Build REST APIs and containerize services using Docker  
-- Work with Linux-based environments and Git for efficient deployment  
-- Troubleshoot and maintain large-scale production systems
+### 🧠 About Me:
 
-🤖 **Currently Exploring**  
-I’m transitioning into **AI/ML engineering**, focusing on:  
-- Machine Learning with Python (Pandas, Scikit-learn, Joblib)  
-- Model training & deployment using FastAPI and Docker  
-- NLP and LLMs using Hugging Face Transformers, LangChain  
-- Deep learning frameworks like TensorFlow (beginner level)
-
-📚 **Learning Goals**  
-- Build real-world ML projects and deploy them as APIs  
-- Contribute to open-source AI projects  
-- Gain hands-on experience in NLP and Generative AI applications  
-- Master end-to-end MLOps workflows
-
-📫 **Connect with me**  
-I'm open to collaborations, learning opportunities, and mentorship in AI. Let's connect!
+- 👨‍💻 Back-end developer with hands-on experience building and maintaining web applications and Network Management Systems (NMS)
+- 🔧 Skilled in PHP (Yii framework), Python, REST API design, and Linux-based environments
+- 🐳 Experienced in using Docker, Git, and MySQL to develop scalable, production-ready backend systems
+- 🤖 Currently diving into AI & Machine Learning — actively building projects with Scikit-learn, FastAPI, and Hugging Face Transformers
+- 🚀 Passionate about continuous learning and transitioning into AI-focused roles
 
 ---
 
+### 🛠 Skills:
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 📘 Current Goals:
+- Build end-to-end AI projects with real-world applications
+- Contribute to open-source AI tools and communities
+- Learn MLOps and scalable ML deployment techniques
+
+---
+
+### 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/negin-alizadeh/)
+- 📧 neginalizade852@gamil.com
 <!--
 **Neallaz/Neallaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
